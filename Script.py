@@ -13,8 +13,6 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
-contact developer give source code 😊
-
    Developer <a href=https://t.me/nawab_me>SAHID NAWAB</a></b>
 
 """
@@ -198,10 +196,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
-╔════ 😉😉😉😉😉 ════╗
- Thanks for using friend 
-  Keep supporting nanba 
-╚════ 😍😍😍😍😍 ════╝</b>""" 
+╔════ 💌💌💌 ════╗
+ Thanks for using friend
+╚════ ❤️‍🔥🎥❤️‍🔥🎥 ════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
