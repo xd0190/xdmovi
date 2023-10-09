@@ -48,7 +48,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "wayace5157")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-VERIFY = bool(environ.get('VERIFY'False'))
+VERIFY = bool(environ.get('VERIFY' False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'ziplinker.net')
 SHORTLINK_API = environ.get('SHORTLINK_API', '0f5fa53392cbc06ec2a3b910a8b9458fad3271bc')
 SECOND_SHORTLINK_URL = environ.get('SECOND_SHORTLINK_URL', 'ziplinker.net')
