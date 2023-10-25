@@ -197,13 +197,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-    
-▫️Movies Group : <a href="https://t.me/nawab_me0">𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
-
-▫️Updates ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/nawabbotupdate">𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞</a>
- 
-▫️For Premium Contents: @nawab_me0 </b>"""
+    CAPTION ="""<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
+▫️<a href=https://t.me/nawab_me0> ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ </a>
+▫️<a href=https://t.me/nawabbotupdate> ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ​ </a>
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
 
     IMDB_TEMPLATE_TXT = """
