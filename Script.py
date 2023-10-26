@@ -7,11 +7,11 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/nawab_me>SAHID NAWAB</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/nawabbotupdate>UPDATES CHANNEL</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/nawabbotupdate>ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
-<b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
+<b>ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
    Developer <a href=https://t.me/nawab_me>SAHID NAWAB</a></b>
 
