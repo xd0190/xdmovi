@@ -13,9 +13,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', ''))
-API_HASH = environ.get('API_HASH', '')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+API_ID = int(environ.get('API_ID', '24363060'))
+API_HASH = environ.get('API_HASH', '2403084c19a00e8f07874b15ba01557b')
+BOT_TOKEN = environ.get('BOT_TOKEN', "6102671698:AAGQJcQ-ADVvuoIPRDgxJnawAJtbnpzbYMA")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -49,10 +49,10 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 VERIFY = bool(environ.get('VERIFY',False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'ziplinker.net')
-SHORTLINK_API = environ.get('SHORTLINK_API', '0f5fa53392cbc06ec2a3b910a8b9458fad3271bc')
-SECOND_SHORTLINK_URL = environ.get('SECOND_SHORTLINK_URL', 'ziplinker.net')
-SECOND_SHORTLINK_API = environ.get('SECOND_SHORTLINK_API', '0f5fa53392cbc06ec2a3b910a8b9458fad3271bc')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'urlshortx.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '9e1f588dce86429c2257f8917a67704db8409880')
+SECOND_SHORTLINK_URL = environ.get('SECOND_SHORTLINK_URL', 'urlshortx.com')
+SECOND_SHORTLINK_API = environ.get('SECOND_SHORTLINK_API', '9e1f588dce86429c2257f8917a67704db8409880')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True ))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
